@@ -1,4 +1,4 @@
-# Object-Recognition-and-Object-Counting-using-Image-Processing.
+# Object-Recognition-and-Object-Counting.
 
 This code is a Python script that uses the OpenCV library to detect and label objects in an image. Specifically, it identifies and counts phones, pens, and books in the given image. Below is an explanation of each section of the code along with some details:
 
