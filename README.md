@@ -1,10 +1,10 @@
 # Object-Recognition-and-Object-Counting.
 
-This code is a Python script that uses the OpenCV library to detect and label objects in an image. Specifically, it identifies and counts phones, pens, and books in the given image. Below is an explanation of each section of the code along with some details:
+This code is a Python script that uses the OpenCV library to detect and label objects in an image. Specifically, it identifies and counts phones, pens, and books in the given image.:
 
-## Importing Libraries
+## Import Libraries
 
-This section imports the necessary libraries for image processing, including OpenCV (cv2), numpy, and a function (`cv2_imshow`) from the Google Colab library for displaying images.
+This section imports the necessary libraries for image processing from the Google Colab library for displaying images.
 
 ## Detect Phone
 
@@ -43,7 +43,7 @@ This section focuses on detecting books in the image:
 6. Bounding boxes are drawn around the detected books, and labels are added to them.
 7. The count of detected books is displayed along with the image.
 
-## Display
+## Display the image
 
 At the end of each section, the script uses `cv2_imshow` to display the image with bounding boxes and labels around the detected objects.
 To use this code, upload it to Google Colab and use "image.png" for testing purposes.
